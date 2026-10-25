@@ -9,6 +9,8 @@ Currently, this repo contains three types of models:
 
 For all models, we provide _base model_ checkpoints, pre-trained on 10k+ hours of robot data, and examples for using them out of the box or fine-tuning them to your own datasets.
 
+A hands-on π0.5 code walkthrough is in [docs/pi05-tutorial](docs/pi05-tutorial/README.md). The prose is Chinese, and each page starts with a short English paragraph.
+
 This is an experiment: $\pi_0$ was developed for our own robots, which differ from the widely used platforms such as [ALOHA](https://tonyzhaozh.github.io/aloha/) and [DROID](https://droid-dataset.github.io/), and though we are optimistic that researchers and practitioners will be able to run creative new experiments adapting $\pi_0$ to their own platforms, we do not expect every such attempt to be successful. All this is to say: $\pi_0$ may or may not work for you, but you are welcome to try it and see!
 
 ## Updates
